@@ -41,7 +41,7 @@ Exploratory Data Analysis (EDA)
 * **Boxplot Insights**: Cars made after 2008 hold higher value.  
 * Outliers exist for both very old and high-priced cars.
 
-![image info](images/image3.png)]
+![image info](images/image4.png)]
 
 #### 
 
@@ -50,13 +50,13 @@ Exploratory Data Analysis (EDA)
 * Median price: \~$26.48K.  
 * Some outliers exceed $3.7 billion, requiring filtering.
 
-![image info](images/image4.png)
+![image info](images/image3.png)
 
 ### Odometer vs Price
 
 * Negative correlation: Higher odometer readings indicate lower prices.
 
-![image info](images/image5.png)
+![image info](images/image2.png)
 
 # Data Preparation
 
