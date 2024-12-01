@@ -24,7 +24,7 @@ df.info()
 
 A quick overview of data:
 
-![image info](images/image1.png)
+![image info](images/image2.png)
 
 ## Key Features
 
@@ -33,8 +33,10 @@ The dataset includes features such as car `make`, `model`, `year`, `mileage` (`o
 ## Data Quality
 
 The dataset contains missing values in several columns, including `'condition`', `'cylinders`', and `'size`'. Some columns, such as `'size'` (71.77% missing), were dropped due to a high percentage of missing values.  
-`![image info](images/image2.png)`  
-Exploratory Data Analysis (EDA)
+
+![image info](images/image1.png) 
+
+## Exploratory Data Analysis (EDA)
 
 ### Year vs Price
 
@@ -50,13 +52,13 @@ Exploratory Data Analysis (EDA)
 * Median price: \~$26.48K.  
 * Some outliers exceed $3.7 billion, requiring filtering.
 
-![image info](images/image3.png)
+![image info](images/image5.png)
 
 ### Odometer vs Price
 
 * Negative correlation: Higher odometer readings indicate lower prices.
 
-![image info](images/image2.png)
+![image info](images/image3.png)
 
 # Data Preparation
 
